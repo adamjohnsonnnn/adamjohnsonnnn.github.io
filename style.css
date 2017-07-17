@@ -1,3 +1,37 @@
 body {
 	background: #C9EFB8;
+	max-width: 60%;
+	display: block;
+	margin: auto;
+	font-family: helvetica;
+}
+
+main {
+	background-color: #FAFAD2;
+	height: 100%;
+	padding: 40px;
+	border: 1px solid white;
+}
+
+h1 {
+	display: block;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+}
+
+#intro {
+	background-color: white;
+	padding-top: 15px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 15px;
+	border: 1px solid gray;
+}
+
+#signup {
+	display: block;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
 }
