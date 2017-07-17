@@ -21,7 +21,8 @@ h1 {
 }
 
 #intro {
-	background-color: white;
+	background-image: url("court.png");
+	background-size: cover;
 	padding-top: 15px;
 	padding-right: 40px;
 	padding-left: 40px;
@@ -30,6 +31,13 @@ h1 {
 }
 
 #signup {
+	display: block;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+}
+
+#rules {
 	display: block;
 	margin: auto;
 	padding: 20px;
