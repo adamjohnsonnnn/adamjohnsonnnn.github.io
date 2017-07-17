@@ -43,3 +43,13 @@ h1 {
 	padding: 20px;
 	text-align: center;
 }
+
+img {
+	max-width: 80%;
+}
+
+@media screen and (max-width: 1250px) {
+body {
+	max-width: 80%;
+  }
+}
